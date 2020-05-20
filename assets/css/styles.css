@@ -37,11 +37,57 @@ h1 {
 .fa-snapchat-ghost {
    font-size: 60px;
     text-align: center;
-    color: white;
+    color: #e9e7e7;
     margin-top: 10px;
     margin-right: auto;
     margin-left: auto; 
     text-shadow: 2px 2px #00000;
+}
+
+.fa-goodreads-g {
+   font-size: 60px;
+    text-align: center;
+    color: #473121;
+    margin-top: 10px;
+    margin-right: auto;
+    margin-left: auto; 
+    text-shadow: 2px 2px #00000;
+}
+
+.fa-users {
+   font-size: 55px;
+    text-align: center;
+    color: #fafafa;
+    margin-top: 10px;
+    margin-right: auto;
+    margin-left: auto; 
+}
+
+.fa-facebook-messenger {
+   font-size: 55px;
+    text-align: center;
+    color: #00b2ff;
+    margin-top: 10px;
+    margin-right: auto;
+    margin-left: auto; 
+}
+
+.fa-skype {
+    font-size: 60px;
+    text-align: center;
+    color: #00aff0;
+    margin-top: 10px;
+    margin-right: auto;
+    margin-left: auto; 
+}
+
+.fa-spotify {
+    font-size: 60px;
+    text-align: center;
+    color: #1db954;
+    margin-top: 10px;
+    margin-right: auto;
+    margin-left: auto; 
 }
 
 .social-logo-border-fbook {
@@ -163,6 +209,97 @@ h1 {
     height: 80px;
     border-radius: 50%;
     background-color: #36465d;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 15px;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5);
+}
+
+.social-logo-border-goodreads {
+    text-align: center;
+    font-size: 55px;
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    background-color: #f4f2ed;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 15px;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5);
+}
+
+.social-logo-border-myspace {
+    text-align: center;
+    font-size: 55px;
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    background-color: #030303;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 15px;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5);
+}
+
+.social-logo-border-whatsapp {
+    text-align: center;
+    font-size: 55px;
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    background-color: #25d366;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 15px;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5);
+}
+
+.social-logo-border-messenger {
+    text-align: center;
+    font-size: 55px;
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    background-color: #fafafa;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 15px;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5);
+}
+
+.social-logo-border-vimeo {
+    text-align: center;
+    font-size: 55px;
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    background-color: #86c9ef;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 15px;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5);
+}
+
+.social-logo-border-skype {
+    text-align: center;
+    font-size: 55px;
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    background-color: #fafafa;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 15px;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5);
+}
+
+.social-logo-border-spotify {
+    text-align: center;
+    font-size: 55px;
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    background-color: #fafafa;
     margin-left: auto;
     margin-right: auto;
     margin-bottom: 15px;
