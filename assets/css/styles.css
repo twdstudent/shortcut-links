@@ -90,6 +90,15 @@ h1 {
     margin-left: auto; 
 }
 
+.fa-windows {
+    font-size: 55px;
+    text-align: center;
+    color: #fafafa;
+    margin-top: 10px;
+    margin-right: auto;
+    margin-left: auto; 
+}
+
 .social-logo-border-fbook {
     text-align: center;
     width: 80px;
@@ -300,6 +309,18 @@ h1 {
     height: 80px;
     border-radius: 50%;
     background-color: #fafafa;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 15px;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5);
+}
+
+.social-logo-border-windows {
+    text-align: center;
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    background-image: linear-gradient(to top right, #f25022,#7fba00,#00a4ef,#ffb900);
     margin-left: auto;
     margin-right: auto;
     margin-bottom: 15px;
