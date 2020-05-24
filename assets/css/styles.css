@@ -322,6 +322,51 @@ h1 {
     box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5);
 }
 
+.social-logo-border-sharepoint {
+    text-align: center;
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    background: url("../images/sharepoint-logo.jpeg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 15px;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5);
+}
+
+.social-logo-border-collins {
+    text-align: center;
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    background: url("../images/design-my-night-logo.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 15px;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5);
+}
+
+.social-logo-border-rep {
+    text-align: center;
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    background: url("../images/rep-logo.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 15px;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5);
+}
+
 /*-- popular links styles --*/
 
 .social-logo-border-github {
