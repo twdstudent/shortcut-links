@@ -181,7 +181,10 @@ h1 {
     width: 80px;
     height: 80px;
     border-radius: 50%;
-    background-color: #fffc00;
+    background: url("../images/snapchat-logo.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
     margin-left: auto;
     margin-right: auto;
     margin-bottom: 15px;
@@ -214,13 +217,16 @@ h1 {
     box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5);
 }
 
-.social-logo-border-goodreads {
+.social-logo-border-flickr {
     text-align: center;
     font-size: 55px;
     width: 80px;
     height: 80px;
     border-radius: 50%;
-    background-color: #f4f2ed;
+    background: url("../images/flickr-logo.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
     margin-left: auto;
     margin-right: auto;
     margin-bottom: 15px;
@@ -233,7 +239,10 @@ h1 {
     width: 80px;
     height: 80px;
     border-radius: 50%;
-    background-color: #030303;
+    background: url("../images/myspace-logo.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
     margin-left: auto;
     margin-right: auto;
     margin-bottom: 15px;
@@ -299,6 +308,64 @@ h1 {
     height: 80px;
     border-radius: 50%;
     background-color: #fafafa;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 15px;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5);
+}
+
+.social-logo-border-tiktok {
+    text-align: center;
+    font-size: 55px;
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    background: url("../images/tiktok-logo.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 15px;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5);
+}
+
+.social-logo-border-foursquare {
+    text-align: center;
+    font-size: 55px;
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    background-color: #fa4779;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 15px;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5);
+}
+
+.social-logo-border-medium {
+    text-align: center;
+    font-size: 55px;
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    background-color: black;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 15px;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5);
+}
+
+.social-logo-border-founders {
+    text-align: center;
+    font-size: 55px;
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    background: url("../images/f6s-logo.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
     margin-left: auto;
     margin-right: auto;
     margin-bottom: 15px;
