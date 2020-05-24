@@ -99,6 +99,8 @@ h1 {
     margin-left: auto; 
 }
 
+/*-- social link styles --*/
+
 .social-logo-border-fbook {
     text-align: center;
     width: 80px;
@@ -180,18 +182,6 @@ h1 {
     height: 80px;
     border-radius: 50%;
     background-color: #fffc00;
-    margin-left: auto;
-    margin-right: auto;
-    margin-bottom: 15px;
-    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5);
-}
-
-.social-logo-border-google {
-    text-align: center;
-    width: 80px;
-    height: 80px;
-    border-radius: 50%;
-    background-image: linear-gradient(to top right, rgba(66,133,244), rgba(219,68,55), rgba(244,160,0), rgba(15,157,88));
     margin-left: auto;
     margin-right: auto;
     margin-bottom: 15px;
@@ -315,17 +305,24 @@ h1 {
     box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5);
 }
 
-.social-logo-border-windows {
+/*-- work link styles --*/ 
+
+.social-logo-border-outlook {
     text-align: center;
     width: 80px;
     height: 80px;
     border-radius: 50%;
-    background-image: linear-gradient(to top right, #f25022,#7fba00,#00a4ef,#ffb900);
+    background: url("../images/outlook-logo.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
     margin-left: auto;
     margin-right: auto;
     margin-bottom: 15px;
     box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5);
 }
+
+/*-- popular links styles --*/
 
 .social-logo-border-github {
     text-align: center;
@@ -355,6 +352,18 @@ h1 {
     transition: all .5s ease-in-out;
     -moz-transition: all .5s ease-in-out;
     -webkit-transition: all .5s ease-in-out;
+}
+
+.social-logo-border-slack {
+    text-align: center;
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    background-color: #3f0e40;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 15px;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5);
 }
 
 .zoom-social {
