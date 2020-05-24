@@ -327,7 +327,7 @@ h1 {
     width: 80px;
     height: 80px;
     border-radius: 50%;
-    background: url("../images/sharepoint-logo.jpeg");
+    background: url("../images/sharepoint-logo.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -358,6 +358,126 @@ h1 {
     height: 80px;
     border-radius: 50%;
     background: url("../images/rep-logo.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 15px;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5);
+}
+
+.social-logo-border-selenity {
+    text-align: center;
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    background: url("../images/selenity-logo.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 15px;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5);
+}
+
+.social-logo-border-travel {
+    text-align: center;
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    background: url("../images/click-travel-logo.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 15px;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5);
+}
+
+.social-logo-border-mable {
+    text-align: center;
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    background: url("../images/mable-logo.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 15px;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5);
+}
+
+.social-logo-border-teamplan {
+    text-align: center;
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    background: url("../images/teamplan-logo.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 15px;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5);
+}
+
+.social-logo-border-ppn {
+    text-align: center;
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    background: url("../images/ppn-logo.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 15px;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5);
+}
+
+.social-logo-border-harri {
+    text-align: center;
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    background: url("../images/harri-logo.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 15px;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5);
+}
+
+.social-logo-border-trade-simple {
+    text-align: center;
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    background: url("../images/trade-simple-logo.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 15px;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5);
+}
+
+.social-logo-border-verisae {
+    text-align: center;
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    background: url("../images/verisae-logo.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
