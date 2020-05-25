@@ -742,6 +742,78 @@ h1 {
     -webkit-transition: all .5s ease-in-out;
 }
 
+.social-logo-border-skynews {
+    text-align: center;
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    background: url("../images/skynews-logo.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 15px;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5);
+    transition: all .5s ease-in-out;
+    -moz-transition: all .5s ease-in-out;
+    -webkit-transition: all .5s ease-in-out;
+}
+
+.social-logo-border-yorkshirepost {
+    text-align: center;
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    background: url("../images/yorkshirepost-logo.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 15px;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5);
+    transition: all .5s ease-in-out;
+    -moz-transition: all .5s ease-in-out;
+    -webkit-transition: all .5s ease-in-out;
+}
+
+.social-logo-border-leedsdirect {
+    text-align: center;
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    background: url("../images/leedsdirect-logo.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 15px;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5);
+    transition: all .5s ease-in-out;
+    -moz-transition: all .5s ease-in-out;
+    -webkit-transition: all .5s ease-in-out;
+}
+
+.social-logo-border-leedsunited {
+    text-align: center;
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    background: url("../images/leedsunited-logo.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 15px;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5);
+    transition: all .5s ease-in-out;
+    -moz-transition: all .5s ease-in-out;
+    -webkit-transition: all .5s ease-in-out;
+}
+
 .social-logo-border-weather {
     text-align: center;
     width: 80px;
