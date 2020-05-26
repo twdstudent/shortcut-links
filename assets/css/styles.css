@@ -1,5 +1,9 @@
-h1 {
-    text-align: center;
+body {
+    background-color: #f1f1f1;
+}
+
+.bg-light {
+    background-color: #cacaca !important;
 }
 
 .social-container {
